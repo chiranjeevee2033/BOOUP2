@@ -33,7 +33,7 @@ URLS = [
 ]
  
 
-sheet_id = "1al5S7gm_yvrKDUs0GILZ8HuEcbeoiZBxSwAyLAu8z1w"
+sheet_id = "1DUXCEmDDIS-2ONCyAaq74bJ31jUKtD7n5pocccGNvMo"
 worksheet_names = ["p1","p2","p3","p4","p5","p6","p7","p8","p9","p10","p11","p12","p13","p14","p15","p16","p17","p18","p19","p20","p21","p22","p23","p24","p25"]
 
 def scrape_chartink(url, worksheet_name):
