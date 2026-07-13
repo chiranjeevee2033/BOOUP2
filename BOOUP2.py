@@ -23,7 +23,7 @@ URLS = [
     "https://chartink.com/screener/copy-copy-future-and-options-2-1-4",
     "https://chartink.com/screener/copy-atp-above-long-fut1",
     "https://chartink.com/screener/copy-copy-daily-min-f-0-trade-2",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
+    "https://chartink.com/screener/copy-non-f-o-universe-screener-for-swing-trading-04-03-20",
     "https://chartink.com/screener/copy-the-best-btst-193",
     "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
