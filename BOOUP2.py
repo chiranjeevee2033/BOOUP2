@@ -7,7 +7,7 @@ import time
 URLS = [
     "https://chartink.com/screener/fut-sreelakshmi-guruvayoorappan-b-atr-volume-rocket",
     "https://chartink.com/screener/copy-copy-copy-future-and-option-pin-bar-pranshu-tiwari-2",
-    "https://chartink.com/screener/copy-copy-how-to-find-future-and-option-stocks-buy-entry-future-3",
+    "https://chartink.com/screener/50aaaagp-shesha-bearish-2",
     "https://chartink.com/screener/copy-copy-nks-future-trick-bb-part-2-21",
     "https://chartink.com/screener/copy-copy-nks-future-trick-bb-part-2-20",
     "https://chartink.com/screener/fut-hammar-cash-low-paradaily",
