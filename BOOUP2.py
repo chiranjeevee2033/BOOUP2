@@ -24,16 +24,16 @@ URLS = [
     "https://chartink.com/screener/copy-sjbl5fut-bulloong-4",
     "https://chartink.com/screener/11111sjbl1fut-rocket",
     "https://chartink.com/screener/copy-sjbl1fut-rocket-2",
-    "https://chartink.com/screener/copy-the-best-btst-193",
-    "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
-    "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-    "https://chartink.com/screener/copy-sjbl6ch-shesha-buy-bollinger-band-weekly",
-    "https://chartink.com/screener/copy-copy-bb-blaster-2",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-16",
-    "https://chartink.com/screener/copy-copy-copy-explosive-move-day-coming-in-1-2-days",
-    "https://chartink.com/screener/50-sreelakshmi-guruvayoorappan-b-atr-volume-rocket",
-    "https://chartink.com/screener/50agp-bullish2-p5",
-    "https://chartink.com/screener/50aaa13-vp-sheshapathi"
+    "https://chartink.com/screener/50-the-best-btst",
+    "https://chartink.com/screener/50shesha-magic-buy-love",
+    "https://chartink.com/screener/50-oneeeeeee",
+    "https://chartink.com/screener/50stocks-in-downtrend",
+    "https://chartink.com/screener/copy-multibagar-5",
+    "https://chartink.com/screener/50-daily-min-f-0-trade",
+    "https://chartink.com/screener/50-22-nw-shesha-magic-buy-love",
+    "https://chartink.com/screener/50-bearish-maribozu",
+    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
+    "https://chartink.com/screener/copy-chanakya-bearish-scanner-working-2803"
 ]
  
 
