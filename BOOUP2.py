@@ -5,35 +5,15 @@ import google_sheets
 import time
 
 URLS = [
-    "https://chartink.com/screener/fut-sreelakshmi-guruvayoorappan-b-atr-volume-rocket",
-    "https://chartink.com/screener/copy-copy-copy-future-and-option-pin-bar-pranshu-tiwari-2",
-    "https://chartink.com/screener/50aaaagp-shesha-bearish-2",
-    "https://chartink.com/screener/copy-copy-nks-future-trick-bb-part-2-21",
-    "https://chartink.com/screener/copy-copy-nks-future-trick-bb-part-2-20",
-    "https://chartink.com/screener/fut-hammar-cash-low-paradaily",
-    "https://chartink.com/screener/copy-bullish-kicker-with-momentum-btst-futures-99",
-    "https://chartink.com/screener/copy-bearish-kicker-with-momentum-stbt-futures-58",
-    "https://chartink.com/screener/sncopy-shani-crow-future",
-    "https://chartink.com/screener/copy-shani-crow-future-2",
+    "https://chartink.com/screener/shesha-magic-buy-love",
+    "https://chartink.com/screener/22-nw-shesha-magic-buy-love-fut",
+    "https://chartink.com/screener/copy-non-f-o-universe-screener-for-swing-trading-04-03-20",
+    "https://chartink.com/screener/50aaa13-vp-sheshapathi",
     "https://chartink.com/screener/copy-copy-copy-copy-merge-nk-daily-convergence-future-nk-sir-hm-positional-buy-nk-sir-4796",
-    "https://chartink.com/screener/tcssjbl1fut-rocket",
-    "https://chartink.com/screener/copy-narayana-futures-positional-bearish-111",
-    "https://chartink.com/screener/new-11111sjbl1fut-rocket",
     "https://chartink.com/screener/copy-love-future",
-    "https://chartink.com/screener/tnsjbl5fut-bulloong-4",
-    "https://chartink.com/screener/copy-sjbl5fut-bulloong-4",
     "https://chartink.com/screener/11111sjbl1fut-rocket",
-    "https://chartink.com/screener/copy-sjbl1fut-rocket-2",
-    "https://chartink.com/screener/50-the-best-btst",
-    "https://chartink.com/screener/50shesha-magic-buy-love",
-    "https://chartink.com/screener/50-oneeeeeee",
-    "https://chartink.com/screener/50stocks-in-downtrend",
-    "https://chartink.com/screener/copy-multibagar-5",
     "https://chartink.com/screener/50-daily-min-f-0-trade",
-    "https://chartink.com/screener/50-22-nw-shesha-magic-buy-love",
-    "https://chartink.com/screener/50-bearish-maribozu",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
-    "https://chartink.com/screener/copy-chanakya-bearish-scanner-working-2803"
+    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new"
 ]
  
 
