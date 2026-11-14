@@ -5,15 +5,17 @@ import google_sheets
 import time
 
 URLS = [
-    "https://chartink.com/screener/shesha-magic-buy-love",
-    "https://chartink.com/screener/22-nw-shesha-magic-buy-love-fut",
-    "https://chartink.com/screener/copy-non-f-o-universe-screener-for-swing-trading-04-03-20",
-    "https://chartink.com/screener/50aaa13-vp-sheshapathi",
-    "https://chartink.com/screener/copy-copy-copy-copy-merge-nk-daily-convergence-future-nk-sir-hm-positional-buy-nk-sir-4796",
-    "https://chartink.com/screener/copy-love-future",
-    "https://chartink.com/screener/11111sjbl1fut-rocket",
-    "https://chartink.com/screener/50-daily-min-f-0-trade",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new"
+      "https://chartink.com/screener/shesha-magic-buy-love",
+	  "https://chartink.com/screener/22-nw-shesha-magic-buy-love-fut",
+	  "https://chartink.com/screener/copy-non-f-o-universe-screener-for-swing-trading-04-03-20",
+	  "https://chartink.com/screener/copy-copy-copy-explosive-move-day-coming-in-1-2-days",
+	  "https://chartink.com/screener/50aaa13-vp-sheshapathi",
+	  "https://chartink.com/screener/copy-copy-copy-copy-merge-nk-daily-convergence-future-nk-sir-hm-positional-buy-nk-sir-4796",
+	  "https://chartink.com/screener/copy-love-future",
+	  "https://chartink.com/screener/11111sjbl1fut-rocket",
+	  "https://chartink.com/screener/50-daily-min-f-0-trade",
+	  "https://chartink.com/screener/50-bearish-maribozu",
+	  "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new"	  
 ]
  
 
